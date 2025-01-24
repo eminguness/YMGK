@@ -1,11 +1,11 @@
-# YMGK
+# Sapan Oyunu
 # MUHAMMED EMİN GÜNEŞ 210542022  
 
 ## PROJE ADI
-ZIPZIP ZIPLAMA
+Sapan Oyunu
 
 ## PROJE AÇIKLAMASI
-"Zıp Zıp Zıplama" projesi, artırılmış gerçeklik (AR) teknolojisini kullanarak eğlenceli bir oyun deneyimi sunmayı hedefleyen bir mobil uygulamadır. Oyunda kullanıcılar, çeşitli zorluk seviyelerinde karakterleri kontrol ederek engelleri aşar ve puan toplar. Proje, Unity oyun motoru kullanılarak geliştirilmiş olup, modern görseller ve interaktif bir tasarım içerir. Eğlenceli bir kullanıcı deneyimi sağlarken, aynı zamanda oyun mekaniklerini öğrenmek isteyenler için bir öğrenme platformu da sunar.
+"Sapan Oyunu" projesi, artırılmış gerçeklik (AR) teknolojisini kullanarak eğlenceli ve interaktif bir oyun deneyimi sunmayı hedefleyen bir mobil uygulamadır. Oyunda, kullanıcılar bir sapan yardımıyla hedeflere nişan alarak puan kazanmaya çalışır. Proje, Unity oyun motoru ile geliştirilmiş olup, AR teknolojisiyle zenginleştirilmiştir. Eğlence ve öğrenmeyi birleştirerek hem keyifli bir zaman geçirme hem de mekanik öğrenme fırsatı sunar.
 
 ## DÖKÜMANLAR
 Proje belgeleri: [Proje Belgeleri GitHub](https://github.com/eminguness/YMGK/tree/main/belgeler)
@@ -22,17 +22,17 @@ Kodlar: [Kodlar Google Drive](https://drive.google.com/drive/folders/1vp502Yghpz
 ## Oyundan Görseller
 Aşağıda oyunun çeşitli ekran görüntüleri yer almaktadır:
 
-### Görsel 1: Oyun Başlangıcı
+### Görsel 1: Oyun Tanıtımı
 ![Oyun Görseli 1](readme_images/description.PNG)
 
 ### Görsel 2: Nesne Düşüşü
-![Oyun Görseli 2](readme_images/drop.PNG)
+![Oyun Görseli 2](readme_images/drop.gif)
 
 ### Görsel 3: Liderlik Tablosu
-![Oyun Görseli 3](readme_images/leaderboard.PNG)
+![Oyun Görseli 3](readme_images/leaderboard.gif)
 
 ### Görsel 4: Uçak Seçimi
-![Oyun Görseli 4](readme_images/plane_selection.PNG)
+![Oyun Görseli 4](readme_images/plane_selection.gif)
 
-### Görsel 5: Oyun Başlatma
-![Oyun Görseli 5](readme_images/start.PNG)
+### Görsel 5: Oyun Başlangıcı
+![Oyun Görseli 5](readme_images/start.gif)
